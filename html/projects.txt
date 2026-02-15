@@ -1,0 +1,13 @@
+1. Python script to load vendor data into centerlize database
+2. automate the system vendor data will fanout to the client on the minimum time.
+3. automate script to remove manuall efforts: scraping data
+4. Create CDC architecture application where historical data archive into snowflake.
+5. Provided guidance to team members and junior colleagues by conduting session on project knowledge and sharing best pratices.
+6. Engaged in solution discussion and contributed to POC activities.
+
+HCL
+1. Manage Team, Participated in PI Planning and Sprint Planning.
+2. get to understand one to one requirement from client.
+3. worked on multiple application where need to create system design
+4. created Server where we performed rebalance logic on daily data
+5.   
